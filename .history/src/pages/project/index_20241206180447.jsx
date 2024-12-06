@@ -2,7 +2,6 @@ import React from "react";
 import UzumMarketProject from "../../components/project/uzum-market";
 import OnlineStoreProject from "../../components/project/online-store";
 import Title from "../../components/project/title";
-import PortfolioProject from "../../components/project/portfolio";
 
 const ProjectPage = () => {
   return (
@@ -10,7 +9,7 @@ const ProjectPage = () => {
       <Title />
       <UzumMarketProject />
       <OnlineStoreProject />
-      <PortfolioProject />
+      <Port
     </div>
   );
 };
