@@ -1,5 +1,5 @@
 import React from "react";
-// import Title from "../../components/About/Title";
+import Title from "../../components/About/Title";
 import Goals from "../../components/About/goals";
 // import Skills from "../../components/About/skills";
 import Experience from "../../components/About/experience";
@@ -9,7 +9,7 @@ import AboutTitle from "../../components/About/Title";
 const AboutPage = () => {
   return (
     <div className="min-h-[71vh] flex flex-col px-[5%] gap-[20px]">
-      <AboutTitle />
+      <AboutTitleTitle />
       <Goals />
       <Experience />
       {/* <Skills /> */}

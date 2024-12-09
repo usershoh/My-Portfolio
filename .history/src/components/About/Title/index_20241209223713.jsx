@@ -12,4 +12,4 @@ const AboutTitle = () => {
   );
 };
 
-export default AboutTitle;
+export default Title;
