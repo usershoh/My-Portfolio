@@ -1,10 +1,10 @@
 import React from "react";
 // import Title from "../../components/About/Title";
-import Goals from "../../components/about/goals";
+import Goals from "../../components/About/goals";
 // import Skills from "../../components/About/skills";
-import Experience from "../../components/about/experience";
-import SkillsDetails from "../../components/about/skills detail";
-import AboutTitle from "../../components/about/title";
+import Experience from "../../components/aboutt/experience";
+import SkillsDetails from "../../components/About/skills detail";
+import AboutTitle from "../../components/About/Title";
 
 const AboutPage = () => {
   return (

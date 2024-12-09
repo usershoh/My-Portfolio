@@ -3,8 +3,8 @@ import React from "react";
 import Goals from "../../components/about/goals";
 // import Skills from "../../components/About/skills";
 import Experience from "../../components/about/experience";
-import SkillsDetails from "../../components/about/skills detail";
-import AboutTitle from "../../components/about/title";
+import SkillsDetails from "../../components/aboutt/skills detail";
+import AboutTitle from "../../components/aboutt/title";
 
 const AboutPage = () => {
   return (

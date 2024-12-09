@@ -4,7 +4,7 @@ import React from "react";
 // import jsLogo from "../../../assets/img/jsLogo.png";
 // import reactLogo from "../../../assets/img/reactLogo.png";
 import { useNavigate } from "react-router-dom";
-import SkillsDetails from "../../about/skills detail";
+import SkillsDetails from "../../aboutt/skills detail";
 
 const About = () => {
   const navigate = useNavigate();
